@@ -11,4 +11,7 @@ This project created for Final Assignment in Bina Nusantara University Bandung
     Sebastian Richard Setiawan (2501990432)
 
     William Steven Wijaya (2501986435)
-
+    
+ WHAT TO DO:
+      1. Download QHEALTH.rar
+      2. Extract and Run it on NetBeans
