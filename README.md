@@ -14,4 +14,5 @@ This project created for Final Assignment in Bina Nusantara University Bandung
     
  WHAT TO DO:
       1. Download QHEALTH.rar
+      
       2. Extract and Run it on NetBeans
