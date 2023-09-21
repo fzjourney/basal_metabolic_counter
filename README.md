@@ -1,4 +1,5 @@
-This project created for Final Assignment in Bina Nusantara University Bandung
+This project created for Final Assignment in Bina Nusantara University Bandung, here's the demo in Figma
+https://www.figma.com/proto/5GdFkKpePL0R0bqvyCRVYK/Project-OOP?node-id=1-50&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A50
 
   People who get involved:
 
